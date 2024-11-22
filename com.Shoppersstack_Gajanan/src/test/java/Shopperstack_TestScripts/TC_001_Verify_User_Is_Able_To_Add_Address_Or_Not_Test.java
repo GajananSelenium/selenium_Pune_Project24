@@ -12,7 +12,7 @@ import com.Shoppersstack_Pom.MyProfile_Page;
 
 import Shopperstack_GenericUtility.Base_Test;
 
-public class TC_001_Verify_User_Is_Able_To_Add_Address_Or_Not extends Base_Test {
+public class TC_001_Verify_User_Is_Able_To_Add_Address_Or_Not_Test extends Base_Test {
 	@Test
 
 	public void addAddresss() throws IOException, EncryptedDocumentException, InterruptedException {
