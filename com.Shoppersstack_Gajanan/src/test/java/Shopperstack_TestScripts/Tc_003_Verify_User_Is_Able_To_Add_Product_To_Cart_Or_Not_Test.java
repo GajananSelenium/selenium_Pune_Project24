@@ -10,7 +10,7 @@ import com.Shoppersstack_Pom.Payment_Page;
 
 import Shopperstack_GenericUtility.Base_Test;
 
-public class Tc_003_Verify_User_Is_Able_To_Add_Product_To_Cart_Or_Not extends Base_Test {
+public class Tc_003_Verify_User_Is_Able_To_Add_Product_To_Cart_Or_Not_Test extends Base_Test {
 	
 	@Test
 	
